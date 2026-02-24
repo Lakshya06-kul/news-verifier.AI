@@ -1,0 +1,5 @@
+{
+  "name": "News Verifier AI",
+  "description": "An AI-powered tool to help you determine the authenticity of news articles and screenshots. Upload an image or paste text to get a detailed analysis backed by credible web sources, with a special focus on Indian news.",
+  "requestFramePermissions": []
+}
